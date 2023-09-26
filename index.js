@@ -10,7 +10,7 @@ app.use(cors())
 
 
 const accountSid = 'AC44b0dc0d3b4647597ab9a322b357edc2';
-const authToken = '03f3ae6ffedb5358ebd8c63b9778e04bs';
+const authToken = '03f3ae6ffedb5358ebd8c63b9778e04b';
 const twilioPhoneNumber = '+15097745126';
 const client = new twilio(accountSid, authToken);
 
